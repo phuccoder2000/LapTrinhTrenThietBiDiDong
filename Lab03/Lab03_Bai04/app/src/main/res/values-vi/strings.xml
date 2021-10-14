@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ứng Dụng Đa Ngôn Ngữ</string>
+    <string name="hintTitle">Xin Chào</string>
+    <string name="hintTaiKhoan">Tài Khoản</string>
+    <string name="hintMatKhau">Mật Khẩu</string>
+    <string name="btnDangNhap">Đăng nhập</string>
+</resources>

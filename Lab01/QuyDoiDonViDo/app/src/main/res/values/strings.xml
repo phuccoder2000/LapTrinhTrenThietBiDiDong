@@ -1,0 +1,24 @@
+
+    <resources>
+        <string name="app_name">QUY ĐỔI ĐƠN VỊ ĐO CHIỀU DÀI</string>
+        <string name="author">Lê Sỹ Hùng</string>
+        <string name="computer">Labtop cá nhân</string>
+        <string name="textbox_hint">Nhập Độ Dài</string>
+        <string name="HaiLy_name">Hải Lý</string>
+        <string name="Dam_name">Dặm</string>
+        <string name="LKM_name">Kilometer</string>
+        <string name="Ly_name">Lý</string>
+        <string name="Met_name">Mét</string>
+        <string name="Yand_name">Yand</string>
+        <string name="Foot_name">Foot</string>
+        <string name="Inches_name">Inches</string>
+
+        <string name="HL_unit">Hải Lý</string>
+        <string name="D_unit">Dặm</string>
+        <string name="KLMT_unit">Kilometer</string>
+        <string name="L_unit">Lý</string>
+        <string name="M_unit">Mét</string>
+        <string name="Y_unit">Yand</string>
+        <string name="F_unit">Foot</string>
+        <string name="Ic_unit">Inches</string>
+    </resources>

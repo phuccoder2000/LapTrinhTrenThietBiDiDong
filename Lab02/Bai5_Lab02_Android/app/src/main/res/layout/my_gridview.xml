@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+    <GridView
+        android:horizontalSpacing="15dp"
+        android:verticalSpacing="25dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:columnWidth="100dp"
+        android:id="@+id/mygridview"
+        android:numColumns="3"
+        android:background="#0C0C0C"/>
+
+</FrameLayout>

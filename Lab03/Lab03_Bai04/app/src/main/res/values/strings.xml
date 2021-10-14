@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Multilanguage App</string>
+    <string name="hintTitle">Hello</string>
+    <string name="hintTaiKhoan">Account</string>
+    <string name="hintMatKhau">Password</string>
+    <string name="btnDangNhap">Confirm</string>
+</resources>

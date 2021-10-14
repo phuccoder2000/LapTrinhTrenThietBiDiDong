@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MySudokeGame</string>
+    <string name="main_title">Sudoku Game</string>
+    <string name="new_game_label">New Game</string>
+    <string name="Continue_label">Continue</string>
+    <string name="about_label">About</string>
+    <string name="exit_label">Exit</string>
+    <string name="about_text">My sudoku Game, like any others SudokuGame Enjoy it</string>
+    <string name="new_game_title">Difficulty</string>
+    <string name="easy_lable">Easy</string>
+    <string name="medium_label">Medium</string>
+    <string name="hard_label">Hard</string>
+    <string name="game_title">Game</string>
+    <string name="about_title">About</string>
+    <string name="keypad_title">keypad_title</string>
+    <string name="no_mover_label">no_mover_label</string>
+
+</resources>
